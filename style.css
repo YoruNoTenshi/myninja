@@ -1,0 +1,49 @@
+head {
+alignment: center;
+}
+body {
+    background-color: darkorange;
+    text-align: center;
+  }
+  
+  h1 {
+    color:  darkblue;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    padding: 10px;
+  }
+  
+  #nome_desenho {
+    font-size: 40px;
+  }
+  
+  a {
+    color: white;
+    font-size: 20px;
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  
+  p {
+    color: darkred;
+    word-spacing: 10px;
+    font-variant: small-caps;
+    font-size: 20px;
+    font-family: Arial;
+  }
+  
+  .mais_sobre_desenho {
+    color: darkblue;
+    font-size: 18px;
+  }
+  
+  img {
+    border-style: solid;
+    border-color: #30f6f7;
+    border-width: 10px;
+    padding: 15px;
+  }
